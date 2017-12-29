@@ -1,4 +1,4 @@
-package com.emirates.spark.jobserver.adapter
+package com.dataengineering.spark.jobserver.adapter
 
 import com.typesafe.config.Config
 import org.apache.spark.api.java.JavaSparkContext
